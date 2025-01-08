@@ -1,0 +1,15 @@
+Port: 8080
+Dsn: "root:mysql_5Y57Pi@tcp(192.168.1.246:3306)/pack?charset=utf8mb4&parseTime=True&loc=Local"
+UploadDir: "D:\\upload"
+DownloadDir: "D:\\download"
+Project:
+  liveshop:
+    Name: liveshop
+    UnpackDir: "D:\\projects\\liveshop\\Android-SDK@4.29.82201_20241008\\UniPlugin-Hello-AS\\app\\src\\main\\assets\\apps"
+    BuildDir: "D:\\projects\\liveshopw\\Android-SDK@4.29.82201_20241008\\UniPlugin-Hello-AS"
+    OutputDir: "D:\\projects\\liveshop\\Android-SDK@4.29.82201_20241008\\UniPlugin-Hello-AS\\app\\build\\outputs\\apk\\release"
+  guagua:
+    Name: guagua
+    UnpackDir: "D:\\projects\\guagua\\Android-SDK@4.29.82201_20241008\\UniPlugin-Hello-AS\\app\\src\\main\\assets\\apps"
+    BuildDir: "D:\\projects\\guagua\\Android-SDK@4.29.82201_20241008\\UniPlugin-Hello-AS"
+    OutputDir: "D:\\projects\\guagau\\Android-SDK@4.29.82201_20241008\\UniPlugin-Hello-AS\\app\\build\\outputs\\apk\\release"
