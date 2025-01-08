@@ -6,7 +6,7 @@ Project:
   liveshop:
     Name: liveshop
     UnpackDir: "D:\\projects\\liveshop\\Android-SDK@4.29.82201_20241008\\UniPlugin-Hello-AS\\app\\src\\main\\assets\\apps"
-    BuildDir: "D:\\projects\\liveshopw\\Android-SDK@4.29.82201_20241008\\UniPlugin-Hello-AS"
+    BuildDir: "D:\\projects\\liveshop\\Android-SDK@4.29.82201_20241008\\UniPlugin-Hello-AS"
     OutputDir: "D:\\projects\\liveshop\\Android-SDK@4.29.82201_20241008\\UniPlugin-Hello-AS\\app\\build\\outputs\\apk\\release"
   guagua:
     Name: guagua
